@@ -1,2 +1,2 @@
-# proyect-arduino
+# Proyecto de Arduino
 Proyecto de Arduino
